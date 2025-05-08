@@ -20,7 +20,7 @@ const Home = () => {
             <div className="container-custom">
               <div className="max-w-2xl">
                 <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-4 leading-tight text-white">
-                  Lentes de fábrica para o seu óculos com qualidade e agilidade
+                  Lentes de fábrica para o seus óculos com qualidade e agilidade
                 </h1>
                 <p className="text-lg text-white/90 mb-8">
                   Seus óculos com o tipo de lente perfeito para suas necessidades. Fácil, rápido e com entrega no prazo.
@@ -56,7 +56,7 @@ const Home = () => {
               <StepCard icon={ShoppingBag} title="Entregue sua Armação" description="Combine o local para entrega da sua armação com o vendedor." stepNumber={3} />
             </div>
             <div className="relative">
-              <StepCard icon={Eye} title="Receba seu Óculos" description="Combine o local para retirada do seu óculos pronto com as lentes instaladas." stepNumber={4} />
+              <StepCard icon={Eye} title="Receba seus Óculos" description="Combine o local para retirada do seus óculos pronto com as lentes instaladas." stepNumber={4} />
             </div>
           </div>
           
