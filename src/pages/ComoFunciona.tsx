@@ -94,14 +94,14 @@ const ComoFunciona = () => {
     {
       stepNumber: 4,
       title: "Receba seus Óculos Pronto",
-      description: "Quando seu óculos estiver pronto, você receberá uma notificação via WhatsApp. Basta retornar ao ponto de entrega para retirar suas lentes já instaladas na armação.",
+      description: "Quando seus óculos estiver pronto, você receberá uma notificação via WhatsApp. Basta retornar ao ponto de entrega para retirar suas lentes já instaladas na armação.",
       bulletPoints: [
         "Receba notificação quando estiver pronto",
         "Retire no mesmo local onde entregou",
         "Verifique a qualidade das lentes instaladas",
       ],
       imageSrc: "/lovable-uploads/close-up-mulher-recebendo-pacote.jpg",
-      imageAlt: "Receba seu Óculos Pronto",
+      imageAlt: "Receba seus Óculos Pronto",
       imageCredit: {
         text: "Imagem fornecida por",
         link: "https://br.freepik.com/fotos-gratis/close-up-mulher-recebendo-pacote_18492581.htm#fromView=search&page=1&position=36&uuid=76a5fd8f-6573-40f7-8370-3888d7209fe2&query=entregando+entrega+para+pessoa",
