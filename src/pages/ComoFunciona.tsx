@@ -93,7 +93,7 @@ const ComoFunciona = () => {
     },
     {
       stepNumber: 4,
-      title: "Receba seu Óculos Pronto",
+      title: "Receba seus Óculos Pronto",
       description: "Quando seu óculos estiver pronto, você receberá uma notificação via WhatsApp. Basta retornar ao ponto de entrega para retirar suas lentes já instaladas na armação.",
       bulletPoints: [
         "Receba notificação quando estiver pronto",
