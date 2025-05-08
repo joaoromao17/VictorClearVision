@@ -136,7 +136,7 @@ const Contato = () => {
                 </li>
                 <li className="flex gap-3">
                   <span className="flex-shrink-0 flex items-center justify-center rounded-full bg-primary/10 w-8 h-8 text-primary font-semibold">4</span>
-                  <p className="text-gray-600">Quando pronto, combine o local para retirada do seu óculos</p>
+                  <p className="text-gray-600">Quando pronto, combine o local para retirada do seus óculos</p>
                 </li>
               </ol>
             </div>
