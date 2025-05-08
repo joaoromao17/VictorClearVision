@@ -23,7 +23,7 @@ const Home = () => {
                   Lentes de fábrica para o seu óculos com qualidade e agilidade
                 </h1>
                 <p className="text-lg text-white/90 mb-8">
-                  Seu óculos com o tipo de lente perfeito para suas necessidades. Fácil, rápido e com entrega no prazo.
+                  Seus óculos com o tipo de lente perfeito para suas necessidades. Fácil, rápido e com entrega no prazo.
                 </p>
                 <div className="flex flex-col sm:flex-row gap-4">
                   <CTAButton text="Fazer Pedido" to="/pedido" />
